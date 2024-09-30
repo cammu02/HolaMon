@@ -1,0 +1,2 @@
+g++ yourfilename.cpp -o yourfilename
+gcc yourfilename.c -o yourfilename
